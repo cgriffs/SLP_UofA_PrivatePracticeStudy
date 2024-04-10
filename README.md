@@ -16,9 +16,10 @@ SLP Private Practice Analysis is a comprehensive data analytics application desi
 - Pandas
 - Power BI Desktop
 
-### View Live Dashboard
+## View Live Dashboard
 
-Project Link: [SLP-Private-Practice-Analysis]([https://github.com/yourusername/SLP-Private-Practice-Analysis](https://app.powerbi.com/view?r=eyJrIjoiOGVlMDExZTAtMGY4MS00YTY0LTk1YWQtMzA5ZWQ2MWZmNjkwIiwidCI6IjdhOGYyNjJiLWU2ZTMtNGRmYi05ZmY3LWMyZDkxYmQyOWEzMiJ9))
+Project Link: 
+[SLP-Private-Practice-Analysis](https://app.powerbi.com/view?r=eyJrIjoiOGVlMDExZTAtMGY4MS00YTY0LTk1YWQtMzA5ZWQ2MWZmNjkwIiwidCI6IjdhOGYyNjJiLWU2ZTMtNGRmYi05ZmY3LWMyZDkxYmQyOWEzMiJ9)
 
 
 
